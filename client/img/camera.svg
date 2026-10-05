@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 180" role="img" aria-labelledby="title desc">
+  <title id="title">Instant camera</title><desc id="desc">A simple illustration of a camera</desc>
+  <rect x="35" y="55" width="170" height="90" rx="14" fill="#dfe7ee" stroke="#173b57" stroke-width="6"/>
+  <path d="M75 55l12-22h66l12 22" fill="#c7d3dc" stroke="#173b57" stroke-width="6"/>
+  <circle cx="120" cy="100" r="34" fill="#fff" stroke="#173b57" stroke-width="6"/>
+  <circle cx="120" cy="100" r="19" fill="#7aa0b8" stroke="#173b57" stroke-width="5"/>
+  <circle cx="177" cy="78" r="7" fill="#173b57"/>
+  <rect x="45" y="68" width="34" height="8" rx="4" fill="#173b57"/>
+</svg>
